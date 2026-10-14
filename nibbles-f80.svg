@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs><linearGradient id="sky" x2=".9" y2="1"><stop stop-color="#15232f"/><stop offset="1" stop-color="#ac4436"/></linearGradient><linearGradient id="car" x2=".2" y2="1"><stop stop-color="#ff6c58"/><stop offset=".65" stop-color="#dc1317"/><stop offset="1" stop-color="#64080c"/></linearGradient><linearGradient id="glass" x2="1" y2=".7"><stop stop-color="#1d1e32"/><stop offset=".7" stop-color="#5b4b43"/><stop offset="1" stop-color="#040608"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#sky)"/><circle cx="1020" cy="160" r="200" fill="#ffb779" opacity=".23"/>
+<g opacity=".25" fill="#111b24"><rect x="30" y="200" width="95" height="450"/><rect x="150" y="270" width="155" height="390"/><rect x="350" y="160" width="84" height="500"/><rect x="485" y="220" width="170" height="440"/><rect x="720" y="110" width="110" height="540"/><rect x="880" y="185" width="120" height="465"/><rect x="1040" y="250" width="140" height="400"/></g>
+<path d="M0 645Q600 550 1200 645V800H0Z" fill="#121216"/>
+<path d="M105 540Q135 465 220 445L360 425Q430 310 510 305H885Q975 305 1035 427L1134 488Q1177 508 1186 577L1176 708H57L45 596Q47 556 105 540Z" fill="url(#car)" stroke="#fa7771" stroke-width="8"/>
+<path d="M377 435Q416 332 508 328H870Q947 330 1013 445L970 478H360Z" fill="url(#glass)" stroke="#220b0d" stroke-width="18"/>
+<path d="M360 480H975L1037 534H295Z" fill="#0c0c10" stroke="#702629" stroke-width="8"/>
+<g transform="translate(690 350)"><path d="M-95 152Q-160 78-110 40Q-178-45-100-75Q-25-165 59-85Q133-106 165-52Q185 10 119 54L120 145Z" fill="#777372"/><path d="M-95-51Q-153-100-166-55Q-168-8-112 7" fill="#626160"/><path d="M110-66Q185-120 180-47Q179-5 133 12" fill="#666465"/><path d="M-90 58Q0 90 120 49Q137 95 100 138Q-10 180-96 128Z" fill="#66615f"/><path d="M-116 5Q-41-55 12 0Q55-40 129-3L108 38Q24 71-84 45Z" fill="#24262a" stroke="#ccc" stroke-width="8"/><path d="M-105 3Q-30-43 6 4L-8 40Q-56 48-90 32Z" fill="#f02b9b"/><path d="M18 5Q78-43 119-3L105 30Q56 49 19 34Z" fill="#fbb83a"/><ellipse cx="24" cy="82" rx="36" ry="24" fill="#353333"/><path d="M-66 120Q20 148 111 116" fill="none" stroke="#45413d" stroke-width="15"/><path d="M-99 135Q0 172 123 132" fill="none" stroke="#b89b68" stroke-width="24" stroke-dasharray="4 10"/></g>
+<path d="M560 570Q680 540 798 564" stroke="#090b0d" stroke-width="38" fill="none"/><path d="M560 570Q680 540 798 564" stroke="#888" stroke-width="8" fill="none"/>
+<path d="M93 583L311 574L265 613L75 612Z" fill="#f6f3ef"/><path d="M1105 582L893 574L925 615L1150 613Z" fill="#f6f3ef"/>
+<path d="M360 688Q600 719 844 688" stroke="#37080a" stroke-width="35" fill="none"/><path d="M380 694H840" stroke="#f9524d" stroke-width="5"/>
+<text x="600" y="765" fill="#ffe5df" font-family="Arial,sans-serif" font-size="27" font-weight="bold" letter-spacing="14" text-anchor="middle">NIBBLES  /  F80</text>
+</svg>
